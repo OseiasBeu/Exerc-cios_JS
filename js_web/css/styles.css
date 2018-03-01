@@ -1,0 +1,19 @@
+div{
+    border:2px solid black;
+    height: 200px;
+    width:200px;
+    background-color:#ccc;
+}
+.div2{
+    border:2px solid black;
+    height: 200px;
+    width:200px;
+    background-color:#ccc;
+}
+
+.div3{
+    border:2px solid black;
+    height: 550px;
+    width:365px;
+    background-color:#ccF;
+}
